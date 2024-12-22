@@ -25,16 +25,16 @@ Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in eng
 ---
 
 #### 📂 Projects
-1. [Classical Machine Learning Algorithms Library](https://github.com/andrewha/ezml)
-   **Description:** Linear, Logistic, and Autoregression models.
+1. [Classical Machine Learning Algorithms Library](https://github.com/andrewha/ezml)   
+   **Description:** Linear, Logistic, and Autoregression models.  
    **Stack:** C++, Boost, Armadillo.
 
-2. [Local Weighted (LOWESS) Regression Filter](https://github.com/andrewha/lowess_regression)
-   **Description:** One-dimensional [LOWESS](https://en.wikipedia.org/wiki/Local_regression) regression model.
+2. [Local Weighted (LOWESS) Regression Filter](https://github.com/andrewha/lowess_regression)   
+   **Description:** One-dimensional [LOWESS](https://en.wikipedia.org/wiki/Local_regression) regression model. 
    **Stack:** C++, Python, pybind11.
 
-3. [European Vanilla Options](https://github.com/andrewha/european_vanilla_options)
-   **Description:** Call and put options pricing.
+3. [European Vanilla Options](https://github.com/andrewha/european_vanilla_options) 
+   **Description:** Call and put options pricing.  
    **Stack:** C++, Python.
 
 ---
