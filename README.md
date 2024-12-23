@@ -1,14 +1,16 @@
 #### 🚀 About Me
 
-Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in engineering and analytics roles. I have applied my expertise across diverse industries:
+Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in engineering and analytics roles. I have applied my expertise across diverse industries, including:
 
 - 📶Telecommunications: Developed tools for mobile traffic planning, optimization, and prediction.
 - 🖧 Networking: Implemented solutions for software defect classification and syslog clustering.
 - 💳 Consumer Banking: Built predictive models for loan default probability, improving risk management.
 - 💱 High-Frequency Trading (HFT): Briefly explored trading strategy development for financial markets.
-- 📈 Currently focusing on: **Time Series Analysis**.
-- 🌱 Currently learning: **[Go/Golang](https://go.dev/doc/)**.
-- 📖 Currently preparing for: **[Official Scikit-learn Certification](https://papers.probabl.ai/official-scikit-learn-certification-launch)**.
+
+I hold a 🎓 Master's degree in Data Science and an ⚙️ Engineer's Degree in Telecommunications. Currently, I am:
+- 📈 Focusing on: **Time Series Analysis**.
+- 🌱 Learning: **[Go/Golang](https://go.dev/doc/)**.
+- 📖 Preparing for: **[Official Scikit-learn Certification](https://papers.probabl.ai/official-scikit-learn-certification-launch)**.
 
 ---
 
@@ -48,5 +50,5 @@ Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in eng
 - Sometimes, I visit  
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/semipro).  
 
-- My master's thesis presentation, **Electricity Spot Prices Forecasting Using Stochastic Volatility Models,** can be found here:  
+- My DS master's thesis presentation, **Electricity Spot Prices Forecasting Using Stochastic Volatility Models,** can be found here:  
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
