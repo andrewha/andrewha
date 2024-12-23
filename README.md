@@ -7,7 +7,7 @@ Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in eng
 - 💳 Consumer Banking: Built predictive models for loan default probability, improving risk management.
 - 💱 High-Frequency Trading (HFT): Briefly explored trading strategy development for financial markets.
 
-I hold a 🎓 Master's degree in Data Science and an ⚙️ Engineer's Degree in Telecommunications. Currently, I am:
+I hold a Master's degree in Data Science and an Engineer's Degree in Telecommunications. Currently, I am:
 - 📈 Focusing on: **Time Series Analysis**.
 - 🌱 Learning: **[Go/Golang](https://go.dev/doc/)**.
 - 📖 Preparing for: **[Official Scikit-learn Certification](https://papers.probabl.ai/official-scikit-learn-certification-launch)**.
@@ -50,5 +50,11 @@ I hold a 🎓 Master's degree in Data Science and an ⚙️ Engineer's Degree in
 - Sometimes, I visit  
   [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/semipro).  
 
-- My DS master's thesis presentation, **Electricity Spot Prices Forecasting Using Stochastic Volatility Models,** can be found here:  
+---
+
+#### 🎓 Data Science Master's Thesis
+- Topic: Electricity Spot Prices Forecasting Using Stochastic Volatility Models
+- Presentation:  
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
+- Full Text:  
+[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
