@@ -28,7 +28,7 @@ I hold a Master's degree in Data Science and an Engineer's Degree in Telecommuni
 
 #### 📂 Projects
 1. [Wheat Futures Monthly Price Forecasting](https://github.com/andrewha/wheat_price_forecast)  
-   **Description:** Time series forecasting as applied to wheat futures monthly prices.  
+   **Description:** Time series point and interval forecasting as applied to wheat futures monthly prices.  
    **Stack:** Python, SARIMAX.
 
 2. [Classical Machine Learning Algorithms Library](https://github.com/andrewha/ezml)  
