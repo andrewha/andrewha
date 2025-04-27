@@ -27,15 +27,19 @@ I hold a Master's degree in Data Science and an Engineer's Degree in Telecommuni
 ---
 
 #### 📂 Projects
-1. [Classical Machine Learning Algorithms Library](https://github.com/andrewha/ezml)  
+1. [Wheat Futures Monthly Price Forecasting](https://github.com/andrewha/wheat_price_forecast)  
+   **Description:** Time Series Forecasting as applied to wheat futures monthly prices.  
+   **Stack:** Python, SARIMAX.
+
+2. [Classical Machine Learning Algorithms Library](https://github.com/andrewha/ezml)  
    **Description:** Linear, Logistic, and Autoregression models.  
    **Stack:** C++, Boost, Armadillo.
 
-2. [Local Weighted (LOWESS) Regression Filter](https://github.com/andrewha/lowess_regression)  
+3. [Local Weighted (LOWESS) Regression Filter](https://github.com/andrewha/lowess_regression)  
    **Description:** One-dimensional [LOWESS](https://en.wikipedia.org/wiki/Local_regression) regression model.  
    **Stack:** C++, Python, pybind11.
 
-3. [European Vanilla Options](https://github.com/andrewha/european_vanilla_options)  
+4. [European Vanilla Options](https://github.com/andrewha/european_vanilla_options)  
    **Description:** Call and put options pricing.  
    **Stack:** C++, Python.
 
