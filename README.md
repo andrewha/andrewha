@@ -47,8 +47,6 @@ I hold a Master's degree in Data Science and an Engineer's Degree in Telecommuni
 
 #### 🌐 Connect
 - I occasionally post and comment on  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreibatyrov/)  
-  and  
   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@handrewkha).  
 
 - Sometimes, I visit  
