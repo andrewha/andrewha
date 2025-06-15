@@ -59,4 +59,4 @@ I hold a Master's degree in Data Science and an Engineer's Degree in Telecommuni
 - Presentation:  
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
 - Full Text:  
-[![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.30645.08163) [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
