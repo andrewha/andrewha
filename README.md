@@ -8,7 +8,7 @@ Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in eng
 - 💱 High-Frequency Trading (HFT): Briefly explored trading strategy development for financial markets.
 - 🌾 Agriculture: Building forecasting models for crops and derivative instruments.
 
-I hold a Master's degree in Data Science and an Engineer's Degree in Telecommunications. Currently, I am focusing on:
+I hold a Master's degree in Data Science and an Engineer's degree in Telecommunications. Currently, I am focusing on:
 - 📈 **Time Series Analysis**.
 <!-- - 🌱 Learning: **[Go/Golang](https://go.dev/doc/)**.
 - 📖 Preparing for: **[Official Scikit-learn Certification](https://papers.probabl.ai/official-scikit-learn-certification-launch)**. -->
@@ -61,5 +61,6 @@ I hold a Master's degree in Data Science and an Engineer's Degree in Telecommuni
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
 - Full Text:  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.30645.08163) [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
+
 
 
