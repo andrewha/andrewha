@@ -1,6 +1,6 @@
 #### 🚀 About Me
 
-Hi, I'm Andrei (Andrew), a **Data Scientist** with a versatile background in engineering and analytics roles. I have applied my expertise across diverse industries, including:
+Hi, I'm Andrei (Andrew), a **Data Scientist** and **Machine Learning Engineer** with a versatile background in engineering and analytics roles. I have applied my expertise across diverse industries, including:
 
 - 📶Telecommunications: Developed tools for mobile traffic planning, optimization, and prediction.
 - 🖧 Networking: Implemented solutions for software defect classification and syslog clustering.
@@ -61,6 +61,7 @@ I hold a Master's degree in Data Science and an Engineer's degree in Telecommuni
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
 - Full Text:  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.30645.08163) [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
+
 
 
 
