@@ -6,7 +6,7 @@ Hi, I'm Andrei (Andrew), a **Data Scientist** and **Machine Learning Engineer** 
 - 🖧 Networking: Implemented solutions for software defect classification and syslog clustering.
 - 💳 Consumer Banking: Built predictive models for loan default probability, improving risk management.
 - 💱 High-Frequency Trading (HFT): Briefly explored trading strategy development for financial markets.
-- 🌾 Agriculture: Building forecasting models for crops and derivative instruments.
+- 🌾 Agriculture: Built forecasting models for crops and derivative instruments.
 
 I hold a Master's degree in Data Science and an Engineer's degree in Telecommunications. Currently, I am
 - Focusing on 📈 **Time Series Analysis**.
@@ -61,6 +61,7 @@ I hold a Master's degree in Data Science and an Engineer's degree in Telecommuni
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
 - Full Text:  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.30645.08163) [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
+
 
 
 
