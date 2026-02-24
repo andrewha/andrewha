@@ -33,16 +33,16 @@ I hold a Master's degree in Data Science and an Engineer's degree in Telecommuni
    **Stack:** Python, SARIMAX.
 
 2. [Classical Machine Learning Algorithms Library](https://github.com/andrewha/ezml)  
-   **Description:** Linear, Logistic, and Autoregression models.  
+   **Description:** Linear, logistic, and autoregression models.  
    **Stack:** C++, Boost, Armadillo.
 
 3. [Local Weighted (LOWESS) Regression Filter](https://github.com/andrewha/lowess_regression)  
    **Description:** One-dimensional [LOWESS](https://en.wikipedia.org/wiki/Local_regression) regression model.  
    **Stack:** C++, Python, pybind11.
 
-4. [European Vanilla Options](https://github.com/andrewha/european_vanilla_options)  
-   **Description:** Call and put options pricing.  
-   **Stack:** C++, Python.
+4. [Syslog Analysis](https://github.com/andrewha/syslog_analysis)  
+   **Description:** Cluster analysis of syslog messages.  
+   **Stack:** Python, Apache Spark, scikit-learn.
 
 ---
 
@@ -61,13 +61,3 @@ I hold a Master's degree in Data Science and an Engineer's degree in Telecommuni
   [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.24129.67681).  
 - Full Text:  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](http://dx.doi.org/10.13140/RG.2.2.30645.08163) [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?logo=arxiv&logoColor=fff&style=for-the-badge)](https://arxiv.org/abs/2406.19405).
-
-
-
-
-
-
-
-
-
-
